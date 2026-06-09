@@ -40,8 +40,4 @@ Lately I've been spending a lot of time on what AI changes about all of this: wo
 
 ---
 
-<p align="left">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=alex-castelo&show_icons=true&hide_border=true&hide=contribs&theme=graywhite&icon_color=000000&title_color=000000&text_color=333333&bg_color=ffffff" alt="Àlex's GitHub stats" />
-</p>
-
 <p align="left"><sub>Most of my best work lives in private/company repos — happy to walk through it on a call.</sub></p>
