@@ -15,7 +15,7 @@
 
 Frontend engineer with 7 years in the industry. I care about *how* teams build as much as *what* they build — the architecture, the rituals, and the small habits that compound. Most recently I co-led a Nuxt 2 → Next.js monorepo migration, bootstrapped a company's first design system, and put observability on real footing.
 
-Lately I've been spending a lot of time on what AI changes about all of this: workflows, leverage, and what the next ten years of engineering looks like up close.
+Lately I've been spending a lot of time on what AI changes about all of this: workflows, leverage, and what the next years of engineering looks like up close.
 
 ### What I work with
 
