@@ -13,27 +13,28 @@
 
 ---
 
-Frontend engineer with 7 years in the industry. I care about *how* teams build as much as *what* they build — the architecture, the rituals, and the small habits that compound. Most recently I co-led a Nuxt 2 → Next.js monorepo migration, bootstrapped a company's first design system, and put observability on real footing.
-
-Lately I've been spending a lot of time on what AI changes about all of this: workflows, leverage, and what the next years of engineering looks like up close.
+Frontend engineer with 7 years in the industry. I care about how teams build as much as what they build — the architecture, the rituals, and the small habits that compound. Most recently I worked on a Growth team, owning a multi-brand sales funnel and its experimentation program, while co-leading a Nuxt 2 → Next.js monorepo migration, bootstrapping a company's first design system, and putting observability on real footing. Before that I launched a native customer app from scratch and evolved a back-office application.
 
 ### What I work with
 
 **Languages** — `TypeScript` · `JavaScript`
 
-**Frameworks** — `Vue 3` · `Nuxt` · `Next.js` · `React` · `Astro`
+**Frameworks** — `Vue 3` · `Nuxt` · `Next.js` · `React` · `Astro` · `Ionic` · `Capacitor`
 
-**Build & architecture** — `Vite` · `Monorepos` · `Design Systems` · `Storybook`
+**Build & architecture** — `Vite` · `Monorepos` · `Design Systems` · `Storybook` · `Tailwind`
 
-**Testing** — `Playwright` · `Vitest` · `Jest` · `Cypress` · `Percy`
+**Backend** — `Node.js` · `Express`
 
-**Quality & ops** — `CI/CD` · `Datadog` · `Observability`
+**Testing** — `Playwright` · `Vitest` · `Jest` · `Cypress` · `Percy` · `Testing Library`
 
-**AI tooling** — `MCP` · `Agentic workflows`
+**Growth & experimentation** — `A/B testing` · `Statsig` · `Feature flags` · `Google Analytics` · `Mixpanel`
+
+**Quality & ops** — `CI/CD` · `Datadog` · `Observability` · `Sentry`
+
+**AI tooling** — `MCP` · `Agentic workflows`, `Claude Code`, `Skills`, `Automatizations`
 
 ### Currently
 
-- 🧪 Experimenting with MCP and agentic developer tooling
 - 🌍 Open to senior, remote-first roles where technical leadership is a tool, not a title
 
 > 👉 More about me here → **[acastelo.dev](https://acastelo.dev)**
